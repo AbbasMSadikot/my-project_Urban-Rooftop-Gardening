@@ -1,0 +1,11 @@
+Asha bids 5000: True
+Ben bids 5100: True
+Seller bids on own item: False
+Late bid: False
+Winner: ben
+Final price: 5355.0
+Top bidders: ['ben', 'asha']
+Below-reserve bid: False
+No-bid winner: None
+Escaped listing: <h2>&lt;script&gt;alert(&#39;pwned&#39;)&lt;/script&gt;Old Radio</h2><p>Current bid: Rs.0</p>
+Escaped badge: <span class='bidder'>&lt;img src=x onerror=alert(1)&gt;</span>
