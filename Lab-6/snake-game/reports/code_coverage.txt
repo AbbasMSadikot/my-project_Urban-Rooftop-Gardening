@@ -1,0 +1,10 @@
+........                                                                 [100%]
+8 passed in 0.16s
+Name                                   Stmts   Miss  Cover   Missing
+--------------------------------------------------------------------
+Lab-4/snake-game/game/food.py             18      0   100%
+Lab-4/snake-game/game/game_engine.py     135      1    99%   130
+Lab-4/snake-game/game/snake.py            34      0   100%
+Lab-4/snake-game/main.py                  28      1    96%   43
+--------------------------------------------------------------------
+TOTAL                                    215      2    99%
