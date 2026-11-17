@@ -4,13 +4,24 @@ Individual Software Engineering project submission repository.
 
 ## Project
 
-This repository contains the requirements and architecture material for the Urban Rooftop Gardening project, along with individual software engineering lab submissions. The folders below link to the files currently present on the `main` branch.
+This repository contains the requirements and architecture material for the Urban Rooftop Gardening Co-op App, along with individual software engineering lab submissions.
 
-## Project submission materials
+## Lab 1: Requirements Engineering and UML
+
+The Lab 1 deliverables are collected in [1-Requirements1-Requirements](1-Requirements1-Requirements/):
+
+- [Requirements table](1-Requirements1-Requirements/PES1UG25CS840_Urban_Rooftop_Gardening_Requirements%20(2).xlsx) — exactly five functional requirements and two non-functional requirements, with IDs, type, description, priority, acceptance criteria, and rationale.
+- [UML use-case diagram (PDF)](1-Requirements1-Requirements/Urban_Rooftop_Gardening_Use_Case_Diagram.pdf) — three actors, the project use cases, and correctly directed `include` and `extend` relationships.
+- [Use-case flow (PDF)](1-Requirements1-Requirements/Use_Case_Flow_Log_Seasonal_Crop_Planting.pdf) — preconditions, postconditions, main success scenario, and an alternate flow for invalid planting information.
+- [Requirements traceability matrix](1-Requirements1-Requirements/Requirements_Traceability_Matrix.md) — maps each requirement to the use cases and verification method.
+- [Editable diagram source (SVG)](1-Requirements1-Requirements/Urban_Rooftop_Gardening_Use_Case_Diagram.svg).
+
+**Requirements note:** The workbook has the required Lab 1 count and columns. The two NFR acceptance criteria still need agreed numeric usability, reliability, performance, and security targets before they are fully measurable.
+
+## Other project submission materials
 
 | Brief requirement | Current repository material | Status |
 |---|---|---|
-| Functional and non-functional requirements with an RTM | [Requirements folder](1-Requirements1-Requirements/) includes a project requirements spreadsheet and the assignment handout | Present; confirm the spreadsheet contains all FRs, NFRs, and a complete RTM before submission |
 | Architectural diagram | [Architectural folder](Architectural/) includes an architecture justification and component diagram PDF | Present |
 | Project creation screenshots in GitHub and Jira | No clearly identified GitHub/Jira creation or setup screenshots found in the repository tree | Missing or not identifiable |
 | SRS and work breakdown steps | No clearly identified SRS or work breakdown document found in the repository tree | Missing or not identifiable |
@@ -26,7 +37,7 @@ This repository contains the requirements and architecture material for the Urba
 
 ## Before submitting
 
-1. Review the requirements spreadsheet and verify that it includes the required functional requirements, non-functional requirements, and traceability matrix.
+1. Agree measurable acceptance targets for NFR-001 and NFR-002 with the project stakeholders and update the requirements workbook and RTM.
 2. Add the SRS and work breakdown steps in a clearly named folder.
 3. Add the GitHub/Jira project creation screenshots and Copilot evidence, if those activities are required for this submission.
 4. Confirm that all linked documents and evidence are readable and accessible to the evaluator.
