@@ -30,6 +30,7 @@ The Lab 1 deliverables are collected in [1-Requirements1-Requirements](1-Require
 
 ## Lab submissions
 
+- [Lab 2: Jira backlog and sprint plan](Lab-2/Jira_Backlog_and_Sprint_Plan.md) — Lab 1 requirements converted to prioritized user stories with proposed points and two sprint plans.
 - [Lab 4: Vibe coding and Snake game](Lab-4/README.md) — implementation, setup instructions, and before/after demonstration videos.
 - [Lab 5: Static code analysis](Lab-5/auction-bidding/README.md) — auction application, issue/reflection notes, and before/after Pylint, Bandit, and Flake8 reports.
 - [Lab 6: Code and branch coverage](Lab-6/README.md) — Solar Panel Estimate tests, reports, and screenshots.
@@ -40,6 +41,7 @@ The Lab 1 deliverables are collected in [1-Requirements1-Requirements](1-Require
 1. Agree measurable acceptance targets for NFR-001 and NFR-002 with the project stakeholders and update the requirements workbook and RTM.
 2. Add the SRS and work breakdown steps in a clearly named folder.
 3. Add the GitHub/Jira project creation screenshots and Copilot evidence, if those activities are required for this submission.
-4. Confirm that all linked documents and evidence are readable and accessible to the evaluator.
+4. Complete the two Jira sprints and save the backlog, active board, burndown chart, and reflection evidence.
+5. Confirm that all linked documents and evidence are readable and accessible to the evaluator.
 
 This is the individual-project repository described in the submission brief. Team mini-project requirements such as sprint planning, deployment, and a demo video are not treated as individual-project requirements here.
